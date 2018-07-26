@@ -1,1 +1,0 @@
-roiManager("Select", Array.getSequence(roiManager("count")) );

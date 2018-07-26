@@ -1,1 +1,0 @@
-run("Bio-Formats Importer", "open=G:\\Data_01\\1604\\0414\\sailesh_tissue_01\\tonsil\\OIB\\Image201_01.oib autoscale color_mode=Default view=Hyperstack stack_order=XYCZT");
