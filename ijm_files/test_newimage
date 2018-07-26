@@ -1,0 +1,12 @@
+
+run("Plot Z-axis Profile");
+Plot.getValues(x,y);
+Array.show(y);
+fn=getTitle();
+newImage(fn+"_bkg", "32-bit black", 512, 512, 34);
+for(j=0;j<34;j++)
+{ 
+	run("Add...", "value=1 slice");
+	run("Multiply...", "value="+parseInt(y[j])+" slice");
+	wait(100);
+}
