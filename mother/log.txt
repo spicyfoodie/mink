@@ -1,1 +1,2 @@
 mink_mil=D:\temp5_plants-set9\20190327_\zipping_data_for_ftp\_27
+last_wd=D:\temp5_plants-set9\20190327_\zipping_data_for_ftp\_27\45
